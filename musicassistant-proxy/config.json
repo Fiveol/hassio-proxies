@@ -10,7 +10,7 @@
   "true": true,
   "ingress": true,
   "timeout": 30,
-  "panel_icon": "mdi:zigbee",
+  "panel_icon": "mdi:play-box",
   "map": ["config:ro"],
   "ports": {
     "8099/tcp": null
